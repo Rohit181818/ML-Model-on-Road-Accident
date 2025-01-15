@@ -60,18 +60,3 @@ Based on the analysis and feature importance, the following recommendations were
 Monitoring Weather Conditions: Since weather plays a significant role in accident severity, deploying real-time weather monitoring systems could help in issuing timely alerts.
 Enhancing Road Infrastructure: Features like Junction, Traffic_Signal, and Crossing significantly impact accident severity. Improving road infrastructure at critical points could mitigate severe accidents.
 Time-based Strategies: Implementing time-based strategies such as increased patrolling during high-risk hours could help reduce accidents.
-
-Submission Method
-
-The solution has been documented and submitted using the following method:
-
-Google Colab Notebook: The entire analysis, including data cleaning, EDA, and model building, has been prepared in a well-documented Google Colab notebook. The notebook includes explanations, code cells, and output cells.
-GitHub Repository: A private GitHub repository containing:
-The Colab notebook (ML_Accident_Severity_Prediction.ipynb)
-A README.md file explaining the approach and instructions for running the notebook
-Video Demo: A 5-minute video explaining the solution, approach, and key findings has been recorded and shared via Google Drive.
-Instructions for Running the Solution
-Clone the GitHub repository or download the Colab notebook.
-Open the Colab notebook (ML_Accident_Severity_Prediction.ipynb) in Google Colab.
-Ensure that the dataset file is uploaded or accessible via the provided link.
-Run all cells in the notebook sequentially to reproduce the results.
